@@ -1,0 +1,36 @@
+Title:- HR Analytics Dashboard 
+
+Description:- 
+ 
+The dashboard summarizes data on (metrics) :- total employees 1,470, highlighting that 237 employees have left, resulting in an attrition rate of 16%, while 1,233 employees remain active. The average age of employees is 37 years.
+
+Interactive (Filters) at the top of the dashboard :- allow users to analyze data based on education level (Associate's, Bachelor's, Master's, etc.) and gender (Male/Female), making the dashboard highly customizable for focused decision-making.
+
+The (Pie) chart on the left displays the attrition count by department :- where the R&D department shows the highest attrition (133 employees), followed by Sales (92), and HR (12). 
+
+In the center, a (Bar chart) illustrates the number of employees by age group and gender.:- The largest group of female employees is in the 25-34 age range (217), This suggests that the mid-career age group forms the bulk of the workforce Female (35–44 years: 196 employees 45–54 years: 113 employees Under 25 years: 37 The Lowest group of female employees Over 55 years: 25 employees).  
+while the largest group of male employees is also in the same age range but higher in count (337), This suggests that the mid-career age group forms the bulk of the workforce male (35–44 years: 309 employees 45–54 years: 132 employees Under 25 years: 60 The Lowest group of male employees Over 55 years: 44 employees).
+
+The 25–34 age group has the highest number of employees for both genders, Male employees significantly outnumber female employees in every age group, The youngest (under 25) and oldest (over 55) age brackets have the lowest representation, The data suggests a mid-career heavy workforce, especially in the 25–44 range.
+
+The job satisfaction rating table on the right categorizes employees:- This table presents the distribution of employee job satisfaction ratings (from 1 = lowest to 4 = highest) across various job roles, along with total employee counts for each role. The overall employee count is 1,470.
+
+Total Ratings Breakdown:- Rating 1 (Low): 289 employees, Rating 2: 280 employees, Rating 3: 442 employees, Rating 4 (High): 459 employees.
+
+Job Roles with Employee Counts and Satisfaction:- Sales Executive: 326 employees – Highest count overall, with many rating 4 (112), Research Scientist: 292 employees – Strong satisfaction Many at rating 3 and 4 , Laboratory Technician: 259 employees – Many at rating 3 and 4,Manager: 102 employees – Mixed satisfaction, higher towards rating 3 and 4, Sales Representative: 83 employees – More evenly distributed satisfaction, Healthcare Representative: 131 employees – Majority rated 3 or 4, Manufacturing Director: 145 employees  higher towards rating 3,
+Research Director: 80 employees  higher towards rating 3 and 4, Human Resources: 52 employees – Small group with majority in rating 3 and 4.
+
+Most employees fall into moderate to high satisfaction levels (ratings 3 and 4),The Sales Executive role has the highest number of satisfied employees (112 at rating 4),Roles such as Research Scientist and Laboratory Technician also show strong satisfaction patterns, The lowest ratings (1) are most common among Laboratory Technicians and Research Scientists, possibly pointing to role-specific challenges.
+
+On the bottom left, another bar chart visualizes education field-wise attrition :- Employees from Life Sciences (89), Medical (63), and Marketing (35) have the highest attrition numbers. Technical degree holders (32) and employees from Human Resources (7) show lower attrition.
+
+At the bottom center, a (Bar graph) outlines the attrition rate by gender and age group:- The most affected group is males aged 25-34 with 69 cases of attrition (highest overall), This suggests that the mid-career age group forms the bulk of the workforce 35–44 years: 37 , 45–54 years: 16 , Over 55 years: 8 , Under 25 years: 20.
+followed by females aged 25-34 with 43 cases (highest among overall), This suggests that the mid-career age group forms the bulk of the workforce 35–44 years: 14 , 45–54 years: 9 , 
+Over 55 years: 3 , Under 25 years: 18.
+
+The highest attrition is among males aged 25–34 (69), followed by females aged 25–34 (43), Both genders show the lowest attrition in the over 55 age group, Young employees (under 25) also have noticeable attrition, especially among males (20),The 25–34 age range is the most volatile for attrition, indicating potential issues with engagement or satisfaction in early to mid-career stages.
+
+
+
+
+
